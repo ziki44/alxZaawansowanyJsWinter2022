@@ -1,3 +1,6 @@
 test test test 
 Daniel jestem na kursie ALX
 dddddddd:
+
+
+Zmiany w VSC 
