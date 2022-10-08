@@ -2,4 +2,11 @@ test test test
 Daniel jestem na kursie ALX
 dddddddd:
 
+<<<<<<< HEAD
 BLA BLA BLA 
+=======
+
+Zmiany w VSC 
+>>>>>>> cb0dd4ee2e94524eafb5d650b647f8d1d833e4a9
+
+Zmiany nr 5 
